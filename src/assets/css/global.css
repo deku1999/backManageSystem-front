@@ -1,0 +1,21 @@
+@import './normalize.css';
+html,body,#app{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.el-breadcrumb {
+    margin-bottom: 15px;
+}
+.el-pagination{
+    margin-top: 15px;
+}
+#app {
+    min-width: 1366px;
+}
+.ql-editor {
+    min-height: 300px;
+}
+.upload-demo{
+    min-height: 400px;
+}
